@@ -3,7 +3,7 @@
    JANGAN masukkan service_role / secret key di sini.
 */
 window.KARSA_CONFIG = {
-  SUPABASE_URL: "https://bdisklzxbbsybaklkbsv.supabase.co",
-  SUPABASE_KEY: "sb_publishable_v2TXYju6aSvKBMxSQSW2ig_-DaB4ihH",
+  SUPABASE_URL: "https://hwgtmnuqacezjwxtfybp.supabase.co",
+  SUPABASE_KEY: "sb_publishable_D17uunwSDgh7cRPPDxsiJw_YLIq0Ycv",
   DEMO_MODE: false
 };
